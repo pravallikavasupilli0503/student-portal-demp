@@ -1,0 +1,2 @@
+# student-portal-demp
+A basic idea for a student portal application
